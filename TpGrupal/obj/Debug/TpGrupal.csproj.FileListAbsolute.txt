@@ -1,0 +1,18 @@
+C:\Users\flore\OneDrive\Escritorio\Libreria\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\TpGrupal\bin\Debug\TpGrupal.exe.config
+C:\Users\flore\OneDrive\Escritorio\Libreria\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\TpGrupal\bin\Debug\TpGrupal.exe
+C:\Users\flore\OneDrive\Escritorio\Libreria\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\TpGrupal\bin\Debug\TpGrupal.pdb
+C:\Users\flore\OneDrive\Escritorio\Libreria\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\TpGrupal\obj\Debug\TpGrupal.csproj.AssemblyReference.cache
+C:\Users\flore\OneDrive\Escritorio\Libreria\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\TpGrupal\obj\Debug\TpGrupal.Properties.Resources.resources
+C:\Users\flore\OneDrive\Escritorio\Libreria\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\TpGrupal\obj\Debug\TpGrupal.csproj.GenerateResource.cache
+C:\Users\flore\OneDrive\Escritorio\Libreria\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\TpGrupal\obj\Debug\TpGrupal.csproj.CoreCompileInputs.cache
+C:\Users\flore\OneDrive\Escritorio\Libreria\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\TpGrupal\obj\Debug\TpGrupal.exe
+C:\Users\flore\OneDrive\Escritorio\Libreria\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\TpGrupal\obj\Debug\TpGrupal.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\TpGrupal\bin\Debug\TpGrupal.exe.config
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\TpGrupal\bin\Debug\TpGrupal.exe
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\TpGrupal\bin\Debug\TpGrupal.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\TpGrupal\obj\Debug\TpGrupal.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\TpGrupal\obj\Debug\TpGrupal.Properties.Resources.resources
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\TpGrupal\obj\Debug\TpGrupal.csproj.GenerateResource.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\TpGrupal\obj\Debug\TpGrupal.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\TpGrupal\obj\Debug\TpGrupal.exe
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\TpGrupal\obj\Debug\TpGrupal.pdb

@@ -1,0 +1,13 @@
+﻿namespace CineBack.Dominio
+{
+    public class TipoSala
+    {
+        public int Id { get; set; }
+        public string Nombre { get; set; }
+
+        public TipoSala()
+        {
+            
+        }
+    }
+}

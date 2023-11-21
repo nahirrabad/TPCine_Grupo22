@@ -1,0 +1,400 @@
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\bin\Debug\net6.0\appsettings.json
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\bin\Debug\net6.0\CineWebApi.exe
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\bin\Debug\net6.0\CineWebApi.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\bin\Debug\net6.0\CineWebApi.runtimeconfig.json
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\bin\Debug\net6.0\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\bin\Debug\net6.0\CineWebApi.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\obj\Debug\net6.0\CineWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\obj\Debug\net6.0\CineWebApi.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\obj\Debug\net6.0\CineWebApi.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\obj\Debug\net6.0\CineWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\obj\Debug\net6.0\CineWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.CineWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\obj\Debug\net6.0\scopedcss\bundle\CineWebApi.styles.css
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.CopyComplete
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\obj\Debug\net6.0\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\obj\Debug\net6.0\refint\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\obj\Debug\net6.0\CineWebApi.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\obj\Debug\net6.0\CineWebApi.genruntimeconfig.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\obj\Debug\net6.0\ref\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\bin\Debug\net6.0\appsettings.json
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\bin\Debug\net6.0\CineWebApi.exe
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\bin\Debug\net6.0\CineWebApi.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\bin\Debug\net6.0\CineWebApi.runtimeconfig.json
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\bin\Debug\net6.0\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\bin\Debug\net6.0\CineWebApi.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\obj\Debug\net6.0\CineWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\obj\Debug\net6.0\CineWebApi.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\obj\Debug\net6.0\CineWebApi.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\obj\Debug\net6.0\CineWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\obj\Debug\net6.0\CineWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.CineWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\obj\Debug\net6.0\scopedcss\bundle\CineWebApi.styles.css
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.CopyComplete
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\obj\Debug\net6.0\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\obj\Debug\net6.0\refint\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\obj\Debug\net6.0\CineWebApi.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\obj\Debug\net6.0\CineWebApi.genruntimeconfig.cache
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineWebApi\obj\Debug\net6.0\ref\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\bin\Debug\net6.0\appsettings.json
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\bin\Debug\net6.0\CineWebApi.exe
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\bin\Debug\net6.0\CineWebApi.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\bin\Debug\net6.0\CineWebApi.runtimeconfig.json
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\bin\Debug\net6.0\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\bin\Debug\net6.0\CineWebApi.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\obj\Debug\net6.0\CineWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\obj\Debug\net6.0\CineWebApi.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\obj\Debug\net6.0\CineWebApi.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\obj\Debug\net6.0\CineWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\obj\Debug\net6.0\CineWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.CineWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\obj\Debug\net6.0\scopedcss\bundle\CineWebApi.styles.css
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.CopyComplete
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\obj\Debug\net6.0\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\obj\Debug\net6.0\refint\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\obj\Debug\net6.0\CineWebApi.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\obj\Debug\net6.0\CineWebApi.genruntimeconfig.cache
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineWebApi\obj\Debug\net6.0\ref\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\bin\Debug\net6.0\appsettings.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\bin\Debug\net6.0\CineWebApi.exe
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\bin\Debug\net6.0\CineWebApi.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\bin\Debug\net6.0\CineWebApi.runtimeconfig.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\bin\Debug\net6.0\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\bin\Debug\net6.0\CineWebApi.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\obj\Debug\net6.0\CineWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\obj\Debug\net6.0\CineWebApi.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\obj\Debug\net6.0\CineWebApi.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\obj\Debug\net6.0\CineWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\obj\Debug\net6.0\CineWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.CineWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\obj\Debug\net6.0\scopedcss\bundle\CineWebApi.styles.css
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.CopyComplete
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\obj\Debug\net6.0\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\obj\Debug\net6.0\refint\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\obj\Debug\net6.0\CineWebApi.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\obj\Debug\net6.0\CineWebApi.genruntimeconfig.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineWebApi\obj\Debug\net6.0\ref\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\bin\Debug\net6.0\appsettings.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\bin\Debug\net6.0\CineWebApi.exe
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\bin\Debug\net6.0\CineWebApi.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\bin\Debug\net6.0\CineWebApi.runtimeconfig.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\bin\Debug\net6.0\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\bin\Debug\net6.0\CineWebApi.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\obj\Debug\net6.0\CineWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\obj\Debug\net6.0\CineWebApi.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\obj\Debug\net6.0\CineWebApi.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\obj\Debug\net6.0\CineWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\obj\Debug\net6.0\CineWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.CineWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\obj\Debug\net6.0\scopedcss\bundle\CineWebApi.styles.css
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.CopyComplete
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\obj\Debug\net6.0\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\obj\Debug\net6.0\refint\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\obj\Debug\net6.0\CineWebApi.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\obj\Debug\net6.0\CineWebApi.genruntimeconfig.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineWebApi\obj\Debug\net6.0\ref\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\bin\Debug\net6.0\appsettings.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\bin\Debug\net6.0\CineWebApi.exe
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\bin\Debug\net6.0\CineWebApi.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\bin\Debug\net6.0\CineWebApi.runtimeconfig.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\bin\Debug\net6.0\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\bin\Debug\net6.0\CineWebApi.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\obj\Debug\net6.0\CineWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\obj\Debug\net6.0\CineWebApi.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\obj\Debug\net6.0\CineWebApi.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\obj\Debug\net6.0\CineWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\obj\Debug\net6.0\CineWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.CineWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\obj\Debug\net6.0\scopedcss\bundle\CineWebApi.styles.css
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.CopyComplete
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\obj\Debug\net6.0\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\obj\Debug\net6.0\refint\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\obj\Debug\net6.0\CineWebApi.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\obj\Debug\net6.0\CineWebApi.genruntimeconfig.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineWebApi\obj\Debug\net6.0\ref\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\obj\Debug\net6.0\CineWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\obj\Debug\net6.0\CineWebApi.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\obj\Debug\net6.0\CineWebApi.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\obj\Debug\net6.0\CineWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\obj\Debug\net6.0\CineWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\obj\Debug\net6.0\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\obj\Debug\net6.0\refint\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\obj\Debug\net6.0\CineWebApi.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\bin\Debug\net6.0\appsettings.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\bin\Debug\net6.0\CineWebApi.exe
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\bin\Debug\net6.0\CineWebApi.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\bin\Debug\net6.0\CineWebApi.runtimeconfig.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\bin\Debug\net6.0\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\bin\Debug\net6.0\CineWebApi.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.CineWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\obj\Debug\net6.0\scopedcss\bundle\CineWebApi.styles.css
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.CopyComplete
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\obj\Debug\net6.0\CineWebApi.genruntimeconfig.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineWebApi\obj\Debug\net6.0\ref\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\appsettings.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\CineWebApi.exe
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\CineWebApi.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\CineWebApi.runtimeconfig.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\CineWebApi.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\CineWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\CineWebApi.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\CineWebApi.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\CineWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\CineWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.CineWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CineWebApi.props
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\scopedcss\bundle\CineWebApi.styles.css
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.CopyComplete
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\refint\CineWebApi.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\CineWebApi.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\CineWebApi.genruntimeconfig.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\ref\CineWebApi.dll
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\appsettings.json
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\CineWebApi.exe
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\CineWebApi.deps.json
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\CineWebApi.runtimeconfig.json
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\CineWebApi.dll
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\CineWebApi.pdb
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\CineBack.dll
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\bin\Debug\net6.0\CineBack.pdb
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.AssemblyReference.cache
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\CineWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\CineWebApi.AssemblyInfoInputs.cache
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\CineWebApi.AssemblyInfo.cs
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.CoreCompileInputs.cache
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\CineWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\CineWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.CineWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.CineWebApi.props
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CineWebApi.props
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CineWebApi.props
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\scopedcss\bundle\CineWebApi.styles.css
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.CopyComplete
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\CineWebApi.dll
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\refint\CineWebApi.dll
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\CineWebApi.pdb
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\CineWebApi.genruntimeconfig.cache
+D:\V6 - Flp Bien Cargado\V6 - Flp Bien Cargado\CineWebApi\obj\Debug\net6.0\ref\CineWebApi.dll
+C:\Users\alumno\Downloads\TPCine\CineWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alumno\Downloads\TPCine\CineWebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\alumno\Downloads\TPCine\CineWebApi\bin\Debug\net6.0\CineWebApi.exe
+C:\Users\alumno\Downloads\TPCine\CineWebApi\bin\Debug\net6.0\CineWebApi.deps.json
+C:\Users\alumno\Downloads\TPCine\CineWebApi\bin\Debug\net6.0\CineWebApi.runtimeconfig.json
+C:\Users\alumno\Downloads\TPCine\CineWebApi\bin\Debug\net6.0\CineWebApi.dll
+C:\Users\alumno\Downloads\TPCine\CineWebApi\bin\Debug\net6.0\CineWebApi.pdb
+C:\Users\alumno\Downloads\TPCine\CineWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alumno\Downloads\TPCine\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alumno\Downloads\TPCine\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alumno\Downloads\TPCine\CineWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alumno\Downloads\TPCine\CineWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\alumno\Downloads\TPCine\CineWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\alumno\Downloads\TPCine\CineWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\alumno\Downloads\TPCine\CineWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\alumno\Downloads\TPCine\CineWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alumno\Downloads\TPCine\CineWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alumno\Downloads\TPCine\CineWebApi\bin\Debug\net6.0\CineBack.dll
+C:\Users\alumno\Downloads\TPCine\CineWebApi\bin\Debug\net6.0\CineBack.pdb
+C:\Users\alumno\Downloads\TPCine\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.AssemblyReference.cache
+C:\Users\alumno\Downloads\TPCine\CineWebApi\obj\Debug\net6.0\CineWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Downloads\TPCine\CineWebApi\obj\Debug\net6.0\CineWebApi.AssemblyInfoInputs.cache
+C:\Users\alumno\Downloads\TPCine\CineWebApi\obj\Debug\net6.0\CineWebApi.AssemblyInfo.cs
+C:\Users\alumno\Downloads\TPCine\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Downloads\TPCine\CineWebApi\obj\Debug\net6.0\CineWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alumno\Downloads\TPCine\CineWebApi\obj\Debug\net6.0\CineWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alumno\Downloads\TPCine\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.CineWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alumno\Downloads\TPCine\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.CineWebApi.props
+C:\Users\alumno\Downloads\TPCine\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CineWebApi.props
+C:\Users\alumno\Downloads\TPCine\CineWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CineWebApi.props
+C:\Users\alumno\Downloads\TPCine\CineWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\alumno\Downloads\TPCine\CineWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alumno\Downloads\TPCine\CineWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alumno\Downloads\TPCine\CineWebApi\obj\Debug\net6.0\scopedcss\bundle\CineWebApi.styles.css
+C:\Users\alumno\Downloads\TPCine\CineWebApi\obj\Debug\net6.0\CineWebApi.csproj.CopyComplete
+C:\Users\alumno\Downloads\TPCine\CineWebApi\obj\Debug\net6.0\CineWebApi.dll
+C:\Users\alumno\Downloads\TPCine\CineWebApi\obj\Debug\net6.0\refint\CineWebApi.dll
+C:\Users\alumno\Downloads\TPCine\CineWebApi\obj\Debug\net6.0\CineWebApi.pdb
+C:\Users\alumno\Downloads\TPCine\CineWebApi\obj\Debug\net6.0\CineWebApi.genruntimeconfig.cache
+C:\Users\alumno\Downloads\TPCine\CineWebApi\obj\Debug\net6.0\ref\CineWebApi.dll
